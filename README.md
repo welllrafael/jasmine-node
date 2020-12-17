@@ -1,2 +1,1 @@
-# jasmine-node
-Curso de teste automatizado utilizando o framework jasmine
+# jasmine-node [![Build Status](https://travis-ci.org/welllrafael/jasmine-node.svg?branch=main)](https://travis-ci.org/welllrafael/jasmine-node)
